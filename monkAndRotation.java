@@ -2,7 +2,12 @@
 import java.io.IOException;
 import java.util.Scanner;
 
-
+/***
+* Date 01/04/2017
+* @author Tashnim Chowdhury
+* References 
+* https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/monk-and-rotation-3/
+*/
 
 
 public class monkAndRotation {
@@ -48,7 +53,7 @@ public class monkAndRotation {
 				sb.append(newArray[i] + " ");
 			sb.append("\n");
 		}
-		// StringBuilder is used to add the output arrays in separate lines using append method 
+		
 		System.out.print(sb);
 	}
 

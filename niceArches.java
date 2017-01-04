@@ -3,7 +3,12 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Stack;
 
-// This code is written according to the code written by Suresh Sajja in Github for Hackerearth. I have just written it just to understand
+/***
+* Date 01/04/2017
+* @author Tashnim Chowdhury
+* References 
+* https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/nice-arches-1/
+*/
 public class niceArches {
 
 	public static void main(String[] args) throws IOException {
